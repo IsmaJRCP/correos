@@ -1,0 +1,5 @@
+<?php
+
+$token = "test";
+$chatid = "";
+?>
